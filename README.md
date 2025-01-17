@@ -6,4 +6,4 @@ This repository contains Jupyter notebooks demonstrating my Generative AI with N
 - **GreatLearning-2_Aspect-Based-Classification_Summarization_CustomerReviews**: Aspect-Based Sentiment Classification to understand the overall sentiments and facilitating the refinement of product offerings. Parameter-Efficient Fine-Tuning and Evaluation to elevate the quality of summaries provided by LLMs.
 - **Red Teaming**: Attack LLMs using open source models by generating user-input questions using LLM and Prompt Engineering, Clasify the Input question for any Responsible AI (RAI) Risk or it is Safe. Generate Model response for the user questions, further Clasify the Model Response for any Responsible AI (RAI) Risk or it is Safe.
 
-Feel free to explore the notebooks and provide feedback!
+
